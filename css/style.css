@@ -1,4 +1,111 @@
-.btn:hover {
-color: #fff;
-background-color: #333;
+/* Шапка */
+.head-title {
+}
+.header {
+}
+.header-logo {
+}
+
+/* Навігація */
+.nav {
+}
+.nav-list {
+}
+.nav-item {
+    list-style-type: none;
+}
+.nav-link {
+    
+}
+.header-contacts {
+}
+.header-mailto {
+}
+.header-mail {
+    list-style-type: none;
+}
+.header-tellephone {
+    list-style-type: none;
+}
+
+/* Hero */
+.main {
+}
+.header-hero {
+}
+.caption {
+}
+/* Кнопка */
+.btn {
+}
+.main-text {
+}
+.list {
+    list-style-type: none;
+}
+.soft-skills {
+    
+}
+.soft-caption {
+}
+.soft-text {
+}
+.occupation {
+}
+.occupation-caption {
+}
+.occupation-list {
+    list-style-type: none;
+}
+.occupation-item {
+}
+/* Наша Команда */
+.team {
+}
+.team-caption {
+}
+.team-list {
+    list-style-type: none;
+}
+.team-iteam {
+}
+.team-text {
+}
+/* Footer */
+.footer {
+}
+.footer-title {
+}
+.footer-address {
+}
+.footer-list {
+    list-style-type: none;
+}
+.footer-iteam {
+}
+.map-link {
+}
+.footer-mail {
+}
+.footer-tel {
+}
+/* Portfolio */
+.portfolio-main {
+}
+.portfolio-nav {
+}
+.portfolio-nav-list {
+    list-style-type: none;
+}
+.portfolio-nav-item {
+}
+/* IMG Portfolio */
+.portfolio-list-img {
+    list-style-type: none;
+}
+.portfolio-item {
+}
+.portfolio-head {
+}
+.portfolio-text {
 }
