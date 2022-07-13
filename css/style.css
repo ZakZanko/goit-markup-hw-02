@@ -93,6 +93,7 @@ body {
 }
 /* Кнопка */
 .btn {
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -225,6 +226,7 @@ body {
 }
 /* Portfolio */
 .portfolio-btn {
+  font-family: inherit;
   background: #f5f4fa;
   border-radius: 4px;
   border: 0;
