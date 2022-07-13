@@ -8,10 +8,11 @@
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 100%;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: #2196f3;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 .header-logo-help {
   color: #212121;
@@ -31,9 +32,10 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 100%;
+  line-height: 1.14;
   color: #212121;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -54,17 +56,19 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 100%;
+  line-height: 1.14;
   color: #757575;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .header-tel {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 100%;
+  line-height: 1.14;
   color: #757575;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .header-mail {
   list-style-type: none;
@@ -83,17 +87,22 @@ body {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 136%;
+  line-height: 1.36;
   color: #ffffff;
+  letter-spacing: 0.06em;
 }
 /* Кнопка */
 .btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
   color: #ffffff;
   border: 0;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
+  letter-spacing: 0.06em;
 }
 .btn:hover,
 .btn:focus {
@@ -111,8 +120,9 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  line-height: 100%;
+  line-height: 1.14;
   color: #212121;
+  letter-spacing: 0.03em;
 }
 .soft-text {
   font-size: 14px;
@@ -120,7 +130,8 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 .occupation {
 }
@@ -128,8 +139,9 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 100%;
+  line-height: 1.16;
   color: #212121;
+  letter-spacing: 0.03em;
 }
 .occupation-list {
   list-style-type: none;
@@ -143,15 +155,17 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 100%;
+  line-height: 1.16;
   color: #212121;
+  letter-spacing: 0.03em;
 }
 .team-name {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 100%;
+  line-height: 1.18;
   color: #212121;
+  letter-spacing: 0.03em;
 }
 .team-list {
   list-style-type: none;
@@ -160,8 +174,9 @@ body {
 }
 .team-text {
   font-size: 16px;
-  line-height: 100%;
+  line-height: 1.19;
   color: #757575;
+  letter-spacing: 0.03em;
 }
 /* Footer */
 .footer {
@@ -172,9 +187,10 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 100%;
+  line-height: 1.19;
   color: #2196f3;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 .footer-address {
 }
@@ -186,23 +202,26 @@ body {
 .map-link {
   font-style: normal;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1.71;
   color: #ffffff;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 .footer-mail {
   font-style: normal;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 .footer-tel {
   font-style: normal;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 /* Portfolio */
 .portfolio-btn {
@@ -229,11 +248,12 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 139%;
+  line-height: 1.62;
   color: #212121;
+  letter-spacing: 0.03em;
 }
 .portfolio-nav-item:hover {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 /* IMG Portfolio */
 .portfolio-list-img {
@@ -245,13 +265,15 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 200%;
+  line-height: 2;
   color: #212121;
+  letter-spacing: 0.06em;
 }
 .portfolio-text {
   font-size: 16px;
-  line-height: 160%;
+  line-height: 1.88;
   color: #757575;
+  letter-spacing: 0.03em;
 }
 .map-link:hover,
 .map-link:focus {
@@ -263,6 +285,6 @@ body {
 .footer-tel:focus {
   color: #2196f3;
 }
-.footer-title-help{
-    color: #FFFFFF;
+.footer-title-help {
+  color: #ffffff;
 }
